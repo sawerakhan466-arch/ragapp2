@@ -2,5 +2,5 @@ streamlit==1.48.0
 groq
 sentence-transformers
 faiss-cpu
-PyMuPDF
+PyMuPDF==1.26.4
 numpy
